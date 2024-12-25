@@ -43,5 +43,5 @@ DESED2022 validation set
 
 ## Visualization
 Comparison of pseudo-labelling accuracy in the case of different thresholding strategies on the DESED2022 validation set, where fading colors of diagonal elements refer to the disparity of accuracy.
-<div align="center"><img src="https://github.com/Spray-N/SAT-SED/blob/main/archive/img/acc_compare.png?raw=true" width=100%> </div>
+<div align="center"><img src="https://github.com/Spray-N/SAT-SED/blob/main/archive/img/acc_compare.png?raw=true" width=30%> </div>
 
